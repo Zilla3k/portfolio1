@@ -154,6 +154,12 @@ img {
   border-radius: 4px;
   position: relative;
 }
+
+.empresa a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .empresa::before {
   content: "";
   display: block;
