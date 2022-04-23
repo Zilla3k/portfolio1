@@ -156,7 +156,7 @@ img {
 }
 
 .empresa a {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: inherit;
 }
 
@@ -304,6 +304,9 @@ img {
 }
 .cursos {
   margin-bottom: 60px;
+}
+.cursos li a {
+  color: inherit;
 }
 .formacao-extra h3 {
   font-size: 0.875rem;
